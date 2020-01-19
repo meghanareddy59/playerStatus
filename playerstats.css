@@ -26,4 +26,11 @@ p{
 .img{
     display: inline-block;
     border: 4px solid gray;
+    margin: 20px;
+    padding:15px;
 }
+.img:hover {
+    background-color: skyblue;
+ 
+  }
+
